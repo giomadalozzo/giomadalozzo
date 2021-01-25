@@ -20,7 +20,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=giomadalozzo&show_icons=true&theme=synthwave" alt="Giovanni GitHub Stats" width="50%" />
 
 ### Interests
-<img src="https://img.shields.io/badge/-Python-blue" /> <img src="https://img.shields.io/badge/-Javascript-orange" /> <img src="https://img.shields.io/badge/-Java-yellow" /> <img src="https://img.shields.io/badge/-Node.js-yellowgreen" /> <img src="https://img.shields.io/badge/-React JS-red" /> <img src="https://img.shields.io/badge/-Vue.js-blueviolet" />    
+<img src="https://img.shields.io/badge/-Python-blue" /> <img src="https://img.shields.io/badge/-Java-yellow" /> <img src="https://img.shields.io/badge/-Springboot-green" /> <img src="https://img.shields.io/badge/-Javascript-orange" /> <img src="https://img.shields.io/badge/-Node.js-yellowgreen" /> <img src="https://img.shields.io/badge/-React JS-red" />   
 
 <br/>
 <br/>
