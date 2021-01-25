@@ -9,7 +9,7 @@
 
 🌱 I’m currently studying: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="python.svg" width="40px">](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="django.svg" width="40px">](https://www.djangoproject.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="javascript.svg" width="40px">](https://www.javascript.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="python.svg" width="40px">](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="java.svg" width="40px">](https://www.java.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="javascript.svg" width="40px">](https://www.javascript.com/)
 <br/>
 <br/>
 :black_heart: **Games, Python, pizza and Web Pentest**
