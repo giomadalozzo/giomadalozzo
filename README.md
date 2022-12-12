@@ -3,16 +3,14 @@
 <br/>
 <img align="right" width="150px" src="bug.gif"/>
 
-# My name is Giovanni Madalozzo
-
-#### I'm a Civil Engineering student aiming to become a Software Developer.                                                         
+# My name is Giovanni Madalozzo                                                        
 
 🌱 I’m currently studying: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="python.svg" width="40px">](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="java.svg" width="40px">](https://www.java.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="javascript.svg" width="40px">](https://www.javascript.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="swift.svg" width="40px">](https://developer.apple.com/swift/)
 <br/>
 <br/>
-:black_heart: **Games, Python, pizza and Web Pentest**
+:black_heart: **Games, Swift, pizza and Web Pentest**
 <br/>
 <br/>
 <br/>
